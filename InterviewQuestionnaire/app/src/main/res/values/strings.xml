@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">InterviewQuestionnaire</string>
+    <string name="full_name">ПІБ</string>
+    <string name="age">Вік</string>
+    <string name="tv_salary">Рівень ЗП: 0</string>
+    <string name="q1">Скільки типів даних у Java?</string>
+    <string name="q1_o1">6</string>
+    <string name="q1_o2">7</string>
+    <string name="q1_o3">8</string>
+    <string name="q1_o4">9</string>
+    <string name="q2">Що таке JDK?</string>
+    <string name="q2_o1">Java Debug Kit</string>
+    <string name="q2_o2">Java Development Kit</string>
+    <string name="q2_o3">Java Deployment Kit</string>
+    <string name="q2_o4">Java Data Kit</string>
+    <string name="q3">Що таке Garbage Collector у Java?</string>
+    <string name="q3_o1">Видаляє старі класи</string>
+    <string name="q3_o2">Збирає сміття з екрана</string>
+    <string name="q3_o3">Очищує пам`ять від об`єктів</string>
+    <string name="q3_o4">Запускає програму</string>
+    <string name="q4">Що таке поліморфізм?</string>
+    <string name="q4_o1">Можливість одного об`єкта мати різні форми</string>
+    <string name="q4_o2">Видалення класів</string>
+    <string name="q4_o3">Інкапсуляція даних</string>
+    <string name="q4_o4">Наслідування методів</string>
+    <string name="q5">Який модифікатор доступу дозволяє доступ лише всередині класу?</string>
+    <string name="q5_o1">public</string>
+    <string name="q5_o2">protected</string>
+    <string name="q5_o3">private</string>
+    <string name="q5_o4">default</string>
+    <string name="exp">Досвід роботи від 2 років</string>
+    <string name="team">Навички командної розробки</string>
+    <string name="travel">Готовність до відряджень</string>
+    <string name="submit">Здати тест</string>
+    <string name="result">Результат</string>
+</resources>

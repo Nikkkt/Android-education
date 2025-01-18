@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="display" type="id" />
+    <item name="button_2nd" type="id" />
+    <item name="button_deg" type="id" />
+    <item name="button_sin" type="id" />
+    <item name="button_cos" type="id" />
+    <item name="button_x_y" type="id" />
+    <item name="button_lg" type="id" />
+    <item name="button_ln" type="id" />
+    <item name="button_parentheses" type="id" />
+    <item name="button_sqrt" type="id" />
+    <item name="button_ac" type="id" />
+    <item name="button_backspace" type="id" />
+    <item name="button_percent" type="id" />
+    <item name="button_7" type="id" />
+    <item name="button_8" type="id" />
+    <item name="button_9" type="id" />
+    <item name="button_divide" type="id" />
+    <item name="button_4" type="id" />
+    <item name="button_5" type="id" />
+    <item name="button_6" type="id" />
+    <item name="button_multiply" type="id" />
+    <item name="button_1" type="id" />
+    <item name="button_2" type="id" />
+    <item name="button_3" type="id" />
+    <item name="button_minus" type="id" />
+    <item name="button_0" type="id" />
+    <item name="button_comma" type="id" />
+    <item name="button_equal" type="id" />
+</resources>

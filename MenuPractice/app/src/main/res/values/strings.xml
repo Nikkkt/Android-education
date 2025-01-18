@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MenuPractice</string>
+    <string name="menu_edit_text">Редагувати текст</string>
+    <string name="menu_select_text">Обрати текст</string>
+    <string name="menu_get_time">Отримати поточний час</string>
+    <string name="menu_change_date">Змінити дату</string>
+    <string name="menu_trigger_notification">Виклик сповіщення</string>
+    <string name="main_menu">Головне меню</string>
+    <string name="text_appear">Тут з`явиться текст</string>
+</resources>
