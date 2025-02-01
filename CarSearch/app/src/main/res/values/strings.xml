@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CarSearch</string>
+    <string name="brand">Brand</string>
+    <string name="model">Model</string>
+    <string name="search">Search</string>
+    <string name="main_search">Search</string>
+    <string name="item_brand">Brand</string>
+    <string name="item_model">Model</string>
+    <string name="item_year">Year</string>
+    <string name="item_cost">Cost</string>
+</resources>
